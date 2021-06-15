@@ -9,7 +9,7 @@
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/musuh_bebuyutan?label=Follow&color=<green>)](https://twitter.com/musuh_bebuyutan)
 [![GitHub followers](https://img.shields.io/github/followers/Andihamsah?label=Follow&style=social)](https://github.com/Andihamsah/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-Andi_Hamsah-blue?style=social&logo=Instagram&link=https://www.instagram.com/andihamsah_20/)](https://www.instagram.com/andihamsah_20/) 
+[![Instagram Badge](https://img.shields.io/badge/-Andi_Hamsah-blue?style=social&logo=Instagram&link=https://www.instagram.com/iam_and_i/)](https://www.instagram.com/andihamsah_20/) 
 [![Facebook Badge](https://img.shields.io/badge/-Andi_Hamsah-blue?style=social&logo=facebook&link=https://www.facebook.com/andi.sianakbugis/)](https://www.facebook.com/andi.sianakbugis/) 
 ![visitors](https://hit-badger.glitch.me/badge?page_id=Andihamsah.Andihamsah)
  </div>
